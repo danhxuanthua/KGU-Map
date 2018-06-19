@@ -1,0 +1,1 @@
+<div class="text-center" style="background: #f0f0f0; padding: 15px">KGU Map © 2018 Danh Xuân Thừa - Huỳnh Nhựt Nam</div>
